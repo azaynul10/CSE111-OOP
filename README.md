@@ -16,7 +16,6 @@ This repository contains assignments and course materials from my CSE111-OOP sem
 **A Glimpse into the World of OOP**
 --------------------------------
 
-[OOP Concept
 
 **Why OOP?**
 ------------
